@@ -1,0 +1,69 @@
+﻿Item;Effetto;Peso
+Anello rosso;VITALITA' +1;0,5
+Anello grezzo;FORZA +1;0,5
+Anello leggiadro;DESTREZZA +1;0,5
+Anello finto;ILLUSIONE +1;0,5
+Anello di Patti;MIRACOLI +1;0,5
+Anello infrangibile;RESISTENZA +1;0,5
+Anello delle lacrime;MANA +1;0,5
+Anello ocra;VITALITA' +3;1
+Anello rozzo;FORZA +3;1
+Anello della leggiadria;DESTREZZA +3;1
+Anello illusorio;ILLUSIONE +3;1
+Anello di Pisciotta;MIRACOLI +3;1
+Anello indistruttibile;RESISTENZA +3;1
+Anello divino;MANA +3;1
+Anello del sangue;RIGENERAZIONE SANGUE ;1,5
+Anello del sudore;RIGENERAZIONE SUDORE;1,5
+Anello del pianto;RIGENERAZIONE LACRIME;1,5
+Anello duro;EQUILIBRIO+5;1,5
+Anello di diamante;EQUILIBRIO+10;2
+Anello di Birribaida;PESO TRASPORTABILE+5;1,5
+Anello draconico;PESO TRASPORTABILE+10;2
+Anello dello scambio;VIT,RES,FOR+3, resistenze-6;2,5
+Anello tagliente;Resistenza Taglio +6;0,5
+Anello del fioretto;Resistenza Affondo +6;0,5
+Anello della botta;Resistenza Botta +6;0,5
+Anello infuocato;Resistenza Fuoco +6;0,5
+Anello folgorante;Resistenza Fulmine +6;0,5
+Anello oscuro;Resistenza Oscurità +6;0,5
+Anello dell'illusione;Resistenza Illusione +6;0,5
+Anello resistente aleatorio;Resistenza magica +6;1
+Anello resistente fisico;Resistenza fisica +6;1
+Anello tagliente maggiore;Resistenza Taglio +15;1,2
+Anello del fioretto maggiore;Resistenza Affondo +15;1,2
+Anello della botta maggiore;Resistenza Botta +15;1,2
+Anello infuocato maggiore;Resistenza Fuoco +15;1,2
+Anello folgorante maggiore;Resistenza Fulmine +15;1,2
+Anello oscuro maggiore;Resistenza Oscurità +15;1,2
+Anello dell'illusione maggiore;Resistenza Illusione +15;1,2
+Anello resistente aleatorio maggiore;Resistenza magica +15;1,8
+Anello resistente fisico maggiore;Resistenza fisica +15;1,8
+Anello serpente;Coscienza ricevuta +10% da tutti i nemici;1
+Anello tagliente offensivo;Danno  Taglio base+6;0,5
+Anello del fioretto offensivo;Danno  Affondo base+6;0,5
+Anello della botta offensivo;Danno  Botta  base+6;0,5
+Anello infuocato offensivo;Danno  Fuoco  base+6;0,5
+Anello folgorante offensivo;Danno  Fulmine  base+6;0,5
+Anello oscuro offensivo;Danno  Oscurità  base+6;0,5
+Anello dell'illusione offensivo;Danno  Illusione  base+6;0,5
+Anello offensivo aleatorio;Danno magico  base +6 ;1
+Anello offensivo fisico;Danno fisico  base+6;1
+Anello sibilante;Danno  Taglio base +15;1,8
+Anello penetrante;Danno  Affondo base +15;1,8
+Anello ignorante;Danno  Botta  base +15;1,8
+Anello cremisi;Danno  Fuoco  base +15;1,8
+Anelllo di mithril;Danno  Fulmine  base +15;1,8
+Anello ombra;Danno  Oscurità  base +15;1,8
+Anello vacuo;Danno  Illusione  base +15;1,8
+Anello maledetto;Danno magico  base +15;2,3
+Anello usurpato;Danno fisico  base +15;2,3
+Anello supremo aleatorio;Danno magico base +35;4
+Anello supremo fisico;Danno fisico base +35;4
+Anello del cacciatore;Recupera sangue 20 quando uccidi un nemico;1
+Anello del sacrificio;Non perdi Coscienza dopo la morte, ma si rompe;2
+Anello dello scambio maggiore;Il portatore riceve danni doppi, ma ne effettua doppi;4
+Anello del critico;Se hai critico, fai *3 quando prendi doppio, se non hai critico, lo acquisisci. Se hai anche l'anello del critico maggiore fai *6 quando prendi doppio.;2
+Anello del critico maggiore;Se hai critico, fai*4 quando prendi doppio, se non hai critico lo acquisisci. Se hai anche l'anello del critico fai *6 quando prendi doppio.;2,5
+Anello dell'attacco pesante;Se hai attacco pesante puoi effettuarlo spendendo sudore dimezzato, se non hai attacco pesante lo acquisisci;1,5
+Anello della magia caricata;Se hai magia caricata puoi effettuarla spendendo lacrime dimezzate, se non hai magia caricata la acquisisci;1,5

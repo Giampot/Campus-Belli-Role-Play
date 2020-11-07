@@ -1,0 +1,187 @@
+﻿Item;Tipo;Taglio;Affondo;Botta;Fuoco;Fulmine;Oscurità;Illusione; FOR ; DES ; ILLU ; MIR ;Sudore;Lacrime; Peso ;R FOR;R DES;R ILLU;R MIR;Descrizione
+Rigenerazione lacrime;Cura; -   ; -   ; -   ; -   ; -   ; -   ; 3 ; -   ; -   ; 1,0 ; -   ; -   ; 3 ; -   ; -   ; -   ; 3 ; -   ; Infonde status rigenerazione alle lacrime per 6 turni, non contano i valori  (non cumulabile) 
+Rigenerazione sudore;Cura; -   ; -   ; -   ; -   ; -   ; -   ; 3 ; -   ; -   ; 1,0 ; -   ; -   ; 3 ; -   ; -   ; -   ; 3 ; -   ; Infonde status rigenerazione al sudore per 6 turni, non contano i valori (non cumulabile) 
+Rigenerazione sangue;Cura; -   ; -   ; -   ; -   ; -   ; -   ; 3 ; -   ; -   ; 1,0 ; -   ; -   ; 4 ; 0,3 ; -   ; -   ; 4 ; -   ; Infonde status rigenerazione al sangue per 10 turni, non contano i valori (non cumulabile) 
+Palliativo;Cura; -   ; -   ; -   ; -   ; -   ; -   ; 5 ; -   ; -   ; 1,1 ; -   ; -   ; 2 ; -   ; -   ; -   ; 3 ; -   ; Cura personale, conta come un attacco a se stesso 
+Nebbia velenosa;Veleno; -   ; -   ; -   ; -   ; -   ; -   ; 2 ; -   ; -   ; 1,0 ; -   ; -   ; 2 ; 0,5 ; -   ; -   ; 5 ; -   ; Causa status veleno per 6 turni, questo turno fa danno da illusione (non cumulabile) 
+Freccia di fulmine;Fulmine; -   ; -   ; -   ; -   ; 4 ; -   ; -   ; -   ; -   ; -   ; 1,0 ; -   ; 2 ; 0,3 ; -   ; -   ; -   ; 2 ;
+Palla di fuoco;Fuoco; -   ; -   ; -   ; 4 ; -   ; -   ; -   ; -   ; -   ; -   ; 1,0 ; -   ; 2 ; 0,3 ; -   ; -   ; -   ; 2 ;
+Guarigione;Cura; -   ; -   ; -   ; -   ; -   ; -   ; 6 ; -   ; -   ; 1,2 ; -   ; -   ; 3 ; 0,3 ; -   ; -   ; 5 ; -   ; Cura chiunque con valore come fosse un attacco 
+Ondata acida;Veleno; -   ; -   ; -   ; -   ; -   ; -   ; 4 ; -   ; -   ; 1,0 ; -   ; -   ; 3 ; 0,3 ; -   ; -   ; 6 ; -   ; Causa acidità per 6 turni, questo turno fa danno da illusione (non cumulabile) 
+Nebbia tossica;Veleno; -   ; -   ; -   ; -   ; -   ; -   ; 6 ; -   ; -   ; 1,0 ; -   ; -   ; 4 ; 0,5 ; -   ; -   ; 6 ; -   ; Causa status tossina per 6 turni, questo turno fa danno da illusione (non cumulabile) 
+Guarigione maggiore;Cura; -   ; -   ; -   ; -   ; -   ; -   ; 7 ; -   ; -   ; 1,3 ; -   ; -   ; 4 ; 0,8 ; -   ; -   ; 6 ; -   ; Cura chiunque con valore come fosse un attacco 
+Sfera di fuoco;Fuoco; -   ; -   ; -   ; 6 ; -   ; -   ; -   ; -   ; -   ; -   ; 1,1 ; -   ; 3 ; 0,3 ; -   ; -   ; -   ; 4 ;
+Nebbia velenosa maggiore;Veleno; -   ; -   ; -   ; -   ; -   ; -   ; 5 ; -   ; -   ; 1,1 ; -   ; -   ; 5 ; 1,0 ; -   ; -   ; 8 ; -   ; Causa status veleno per 12 turni, questo turno fa danno da illusione  (non cumulabile) 
+Urto;Illusione; -   ; -   ; -   ; -   ; -   ; -   ; 6 ; -   ; -   ; 1,1 ; -   ; -   ; 2 ; -   ; -   ; -   ; 4 ; -   ;
+Ondata di fuoco;Fuoco; -   ; -   ; -   ; 8 ; -   ; -   ; -   ; -   ; -   ; -   ; 1,2 ; -   ; 4 ; 0,3 ; -   ; -   ; -   ; 4 ;
+Ondata acida maggiore;Veleno; -   ; -   ; -   ; -   ; -   ; -   ; 8 ; -   ; -   ; 1,1 ; -   ; -   ; 6 ; 1,3 ; -   ; -   ; 10 ; -   ; Causa acidità per 12 turni, questo turno fa danno da illusione (non cumulabile) 
+Traspirazione istantanea;Illusione; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   ; 3 ; 0,3 ; -   ; -   ; 5 ; -   ; Aumenta tutte le difese di 4 per questo combat, non fa danno 
+Voto del silenzio;Illusione; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   ; 3 ; 0,3 ; -   ; -   ; 5 ; -   ; Su un alleato, annulla tutti gli status negativi (anche lo stun) 
+Tempesta di fuoco;Fuoco; -   ; -   ; -   ; 10 ; -   ; -   ; -   ; -   ; -   ; -   ; 1,2 ; -   ; 7 ; 0,8 ; -   ; -   ; -   ; 6 ; danni ad area 
+Succhio globulare;Illusione; -   ; -   ; -   ; -   ; -   ; -   ; 5 ; -   ; -   ; 1,1 ; -   ; -   ; 3 ; 0,5 ; -   ; -   ; 3 ; -   ; Assorbi sangue pari al danno inflitto al nemico 
+Urto maggiore;Illusione; -   ; -   ; -   ; -   ; -   ; -   ; 9 ; -   ; -   ; 1,2 ; -   ; -   ; 4 ; 0,5 ; -   ; -   ; 5 ; -   ;
+Ira degli dei;Illusione; -   ; -   ; -   ; -   ; -   ; -   ; 7 ; -   ; -   ; 1,2 ; -   ; -   ; 5 ; 0,5 ; -   ; -   ; 5 ; -   ; Danni ad area 
+Barriera magica;Illusione; -   ; -   ; -   ; -   ; -   ; -   ; 10 ; -   ; -   ; 1,2 ; -   ; -   ; 5 ; 1,0 ; -   ; -   ; 7 ; -   ; Evoca una barriera che protegge da tutte le magie di valore pari a come se fosse un attacco (si può castare anche su alleati) (protegge solo da un attacco) 
+Pugno;Pugni; -   ; -   ; 1 ; -   ; -   ; -   ; -   ; 1,0 ; -   ; -   ; -   ; 1 ; -   ; -   ; -   ; -   ; -   ; -   ;
+Tempesta di fulmini;Fulmine; -   ; -   ; -   ; -   ; 8 ; -   ; -   ; -   ; -   ; -   ; 1,3 ; -   ; 8 ; 1,0 ; -   ; -   ; -   ; 10 ; danni ad area 
+Combustione maggiore;Fuoco; -   ; -   ; -   ; 13 ; -   ; -   ; -   ; -   ; -   ; -   ; 1,3 ; -   ; 6 ; 1,0 ; -   ; -   ; -   ; 8 ;
+Traspirazione maggiore;Illusione; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   ; 4 ; 0,5 ; -   ; -   ; 8 ; -   ; Aumenta tutte le difese di 8 per questo combat, non fa danno 
+Fioretto;Stocco; 3 ; 10 ; -   ; -   ; -   ; -   ; -   ; 1,0 ; 1,2 ; -   ; -   ; 3 ; -   ; 2,0 ; 4 ; 6 ; -   ; -   ;
+Carezza cosciente;Cura; -   ; -   ; -   ; -   ; -   ; -   ; 8 ; -   ; -   ; 1,4 ; -   ; -   ; 7 ; 1,0 ; -   ; -   ; 11 ; -   ; Cura ed infonde rigenerazione a sangue, lacrime e sudore per 6 turni  (non cumulabile) 
+Sfera del caos;Oscurità; -   ; -   ; -   ; -   ; -   ; 10 ; -   ; -   ; -   ; -   ; 1,5 ; -   ; 6 ; 1,5 ; -   ; -   ; -   ; 10 ;
+Tempesta del caos;Oscurità; -   ; -   ; -   ; -   ; -   ; 15 ; -   ; -   ; -   ; -   ; 1,5 ; -   ; 11 ; 1,8 ; -   ; -   ; -   ; 11 ; danni ad area 
+Colonne di luce divina;Fulmine; -   ; -   ; -   ; -   ; 12 ; -   ; -   ; -   ; -   ; -   ; 1,4 ; -   ; 10 ; 1,8 ; -   ; -   ; -   ; 11 ; danni ad area 
+Pelle ferrea;Illusione; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   ; 4 ; 0,8 ; -   ; -   ; 6 ; -   ; Aumenta le difese fisiche di 10 per questo combat, non fa danno 
+Daga di Selinus;Pugnale; 4 ; 4 ; -   ; -   ; -   ; -   ; -   ; 1,1 ; 1,3 ; -   ; -   ; 3 ; -   ; 1,6 ; 5 ; 6 ; -   ; -   ;
+Scudo magico;Illusione; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   ; 6 ; 1,8 ; -   ; -   ; 11 ; -   ; Crea uno scudo con valore 14 di tutto (0 peso, 14 equilibrio), finchè non esaurisci il sudore 
+Fiamma sacra;Fuoco; -   ; -   ; -   ; 15 ; 10 ; -   ; -   ; -   ; -   ; -   ; 1,4 ; -   ; 9 ; 2,5 ; -   ; -   ; -   ; 14 ;
+Fiamma profanata;Fuoco; -   ; -   ; -   ; 17 ; -   ; 11 ; -   ; -   ; -   ; -   ; 1,5 ; -   ; 10 ; 2,8 ; -   ; -   ; -   ; 15 ;
+Ascia castelvetranese;Ascia; 6 ; -   ; 3 ; -   ; -   ; -   ; -   ; 1,2 ; 1,0 ; -   ; -   ; 5 ; -   ; 3,7 ; 7 ; 5 ; -   ; -   ;
+Anime di ricerca;Illusione; -   ; -   ; -   ; -   ; -   ; -   ; 9 ; -   ; -   ; 1,2 ; -   ; -   ; 6 ; 1,5 ; -   ; -   ; 16 ; -   ; Evoca un numero di anime pari alla tua ILLU/4 (paghi Lacrime per ogni anima evocata), ogni turno puoi decidere quante e quali possono attacare quale nemico, ogni pallina fa lo stesso danno 
+Benedizione;Cura; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   ; 10 ; 2,3 ; -   ; -   ; 15 ; -   ; Infonde rigenerazione a sangue, lacrime e sudore a tutti gli alleati per tutto il combat 
+Spadone della viverna;Spadone; 9 ; 8 ; 3 ; -   ; -   ; -   ; -   ; 1,1 ; 1,0 ; -   ; -   ; 7 ; -   ; 4,7 ; 11 ; 10 ; -   ; -   ;
+Clone ombra;Illusione; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   ; 8 ; 1,0 ; -   ; -   ; 11 ; -   ; crea un tuo clone con 1 sangue, fa il suo turno subito dopo di te, sempre, finchè non muore (non può castare la magia clone ombra) 
+Cloni multipli;Illusione; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   ; 8 ; 1,0 ; -   ; -   ; 12 ; -   ; Come clone ombra, ma evoca ILLU/10 cloni  (arrotondi per difetto), (paghi lacrime per ogni clone) 
+Dente di Drago;Mazza grande; -   ; -   ; 28 ; -   ; -   ; -   ; -   ; 1,6 ; -   ; -   ; -   ; 12 ; -   ; 10,2 ; 17 ; -   ; -   ; -   ;
+Spada senza nome;Spada; 1 ; 1 ; -   ; -   ; -   ; -   ; -   ; 1,0 ; 1,0 ; -   ; -   ; 1 ; -   ; 1,4 ; 2 ; 2 ; -   ; -   ;
+Pugnale senza nome;Pugnale; 1 ; 1 ; -   ; -   ; -   ; -   ; -   ; 1,0 ; 1,1 ; -   ; -   ; 1 ; -   ; 1,0 ; 2 ; 3 ; -   ; -   ;
+Scimitarra senza nome;Spada curva; 2 ; -   ; -   ; -   ; -   ; -   ; -   ; 1,0 ; 1,0 ; -   ; -   ; 1 ; -   ; 1,4 ; 2 ; 2 ; -   ; -   ;
+Zampata;Animale; 4 ; -   ; -   ; -   ; -   ; -   ; -   ; 1,2 ; 1,1 ; -   ; -   ; 1 ; -   ; -   ;;;;;
+Ascia di Theodor;Ascia; 8 ; -   ; 4 ; -   ; -   ; -   ; -   ; 1,2 ; 1,0 ; -   ; -   ; 6 ; -   ; 4,0 ; 8 ; 6 ; -   ; -   ;
+Morso;Animale; -   ; 1 ; -   ; -   ; -   ; -   ; -   ; 1,0 ; 1,0 ; -   ; -   ; 1 ; -   ; -   ; -   ; -   ; -   ; -   ;
+Stocco senza nome;Stocco; -   ; 4 ; -   ; -   ; -   ; -   ; -   ; -   ; 1,1 ; -   ; -   ; 2 ; -   ; 1,5 ; -   ; 3 ; -   ; -   ;
+Pugnale;Pugnale; 2 ; 3 ; -   ; -   ; -   ; -   ; -   ; 1,0 ; 1,3 ; -   ; -   ; 2 ; -   ; 1,0 ; 2 ; 4 ; -   ; -   ;
+Spada dell'incosciente;Spada; 2 ; -   ; -   ; -   ; -   ; -   ; -   ; 1,0 ; 1,0 ; -   ; -   ; 2 ; -   ; 1,4 ; 3 ; 2 ; -   ; -   ;
+Morso grande;Animale; -   ; 3 ; -   ; -   ; -   ; -   ; -   ; 1,1 ; 1,1 ; -   ; -   ; 2 ; -   ; -   ; -   ; -   ; -   ; -   ;
+Martello della flammae;Mazza; -   ; -   ; 15 ; 8 ; -   ; -   ; -   ; 1,2 ; -   ; -   ; 1,1 ; 6 ; 3 ; 4,6 ; 7 ; -   ; -   ; 3 ;
+Carica;Animale; -   ; -   ; 5 ; -   ; -   ; -   ; -   ; 1,3 ; 1,0 ; -   ; -   ; 2 ; -   ; -   ; -   ; -   ; -   ; -   ;
+Freccia dell'anima;Illusione; -   ; 8 ; -   ; -   ; -   ; -   ; 11 ; -   ; 1,0 ; 1,0 ; -   ; 2 ; 4 ; 1,0 ; -   ; 4 ; 4 ; -   ;
+Lancia arruginita;Lancia; 1 ; 6 ; -   ; -   ; -   ; -   ; -   ; 1,0 ; 1,0 ; -   ; -   ; 3 ; -   ; 3,6 ; 4 ; 4 ; -   ; -   ;
+Fioretto arruginito;Stocco; 1 ; 4 ; -   ; -   ; -   ; -   ; -   ; 1,0 ; 1,1 ; -   ; -   ; 3 ; -   ; 1,5 ; 3 ; 4 ; -   ; -   ;
+Stocco ;Stocco; 2 ; 7 ; -   ; -   ; -   ; -   ; -   ; 1,1 ; 1,2 ; -   ; -   ; 3 ; -   ; 2,0 ; 4 ; 5 ; -   ; -   ;
+Mazza chiodata;Mazza; 8 ; -   ; 17 ; -   ; -   ; -   ; -   ; 1,4 ; -   ; -   ; -   ; 8 ; -   ; 4,9 ; 10 ; -   ; -   ; -   ;
+Lancia del fulmine;Fulmine; -   ; 5 ; -   ; -   ; 7 ; -   ; -   ; 1,0 ; 1,1 ; -   ; 1,0 ; 2 ; 2 ; 0,8 ; 3 ; 4 ; -   ; 3 ;
+Guantone;Pugni; -   ; -   ; 3 ; -   ; -   ; -   ; -   ; 1,2 ; 1,2 ; -   ; -   ; 3 ; -   ; 0,9 ; 4 ; 4 ; -   ; -   ;
+Mazza ottima;Mazza; -   ; -   ; 21 ; -   ; -   ; -   ; -   ; 1,5 ; -   ; -   ; -   ; 9 ; -   ; 4,8 ; 10 ; -   ; -   ; -   ;
+Daga arruginita;Pugnale; 3 ; 2 ; -   ; -   ; -   ; -   ; -   ; 1,0 ; 1,2 ; -   ; -   ; 3 ; -   ; 1,0 ; 2 ; 4 ; -   ; -   ;
+Daga;Pugnale; 3 ; 3 ; -   ; -   ; -   ; -   ; -   ; 1,1 ; 1,2 ; -   ; -   ; 3 ; -   ; 1,0 ; 4 ; 4 ; -   ; -   ;
+Nebbia tossica maggiore;Veleno; -   ; -   ; -   ; -   ; -   ; -   ; 11 ; -   ; -   ; 1,1 ; -   ; -   ; 7 ; 1,5 ; -   ; -   ; 11 ; -   ; Causa status tossina per 12 turni, questo turno fa danno da illusione (non cumulabile) 
+Ascia senza nome;Ascia; 5 ; -   ; 3 ; -   ; -   ; -   ; -   ; 1,1 ; -   ; -   ; -   ; 3 ; -   ; 3,0 ; 3 ; -   ; -   ; -   ;
+Coltello;Pugnale; 4 ; 2 ; -   ; -   ; -   ; -   ; -   ; 1,2 ; 1,1 ; -   ; -   ; 3 ; -   ; 1,0 ; 5 ; 3 ; -   ; -   ;
+Spada bastarda;Spada; 5 ; 4 ; 3 ; -   ; -   ; -   ; -   ; 1,1 ; 1,0 ; -   ; -   ; 3 ; -   ; 2,5 ; 6 ; 5 ; -   ; -   ;
+Ascia da macellaio;Ascia; 4 ; -   ; 1 ; -   ; -   ; -   ; -   ; 1,1 ; 1,0 ; -   ; -   ; 3 ; -   ; 4,7 ; 4 ; 3 ; -   ; -   ;
+Shotel;Spada curva; 6 ; -   ; 4 ; -   ; -   ; -   ; -   ; 1,0 ; 1,3 ; -   ; -   ; 3 ; -   ; 3,0 ; 4 ; 8 ; -   ; -   ;
+Freccia dell'anima maggiore;Illusione; -   ; 13 ; -   ; -   ; -   ; -   ; 16 ; -   ; 1,0 ; 1,1 ; -   ; 3 ; 5 ; 2,0 ; -   ; 6 ; 7 ; -   ;
+Frusta di fuoco;Fuoco; -   ; -   ; 15 ; 14 ; -   ; -   ; -   ; -   ; 1,1 ; -   ; 1,1 ; 3 ; 4 ; 2,0 ; -   ; 6 ; -   ; 4 ;
+Lancia fulmine maggiore;Fulmine; -   ; 6 ; -   ; -   ; 9 ; -   ; -   ; 1,0 ; 1,1 ; -   ; 1,1 ; 3 ; 3 ; 1,3 ; 4 ; 5 ; -   ; 4 ;
+Lancia del sole;Fulmine; -   ; 10 ; -   ; -   ; 16 ; -   ; -   ; 1,0 ; 1,1 ; -   ; 1,2 ; 3 ; 4 ; 1,8 ; 4 ; 5 ; -   ; 6 ;
+Grande martello di Rampinseri;Mazza grande; -   ; -   ; 17 ; -   ; -   ; 15 ; -   ; 1,5 ; -   ; -   ; 1,0 ; 7 ; 2 ; 8,1 ; 13 ; -   ; -   ; 2 ;
+Partigiana;Lancia; 2 ; 8 ; -   ; -   ; -   ; -   ; -   ; 1,1 ; 1,2 ; -   ; -   ; 4 ; -   ; 4,3 ; 6 ; 7 ; -   ; -   ;
+Spezzacorazze;Stocco; 4 ; 13 ; -   ; -   ; -   ; -   ; -   ; 1,1 ; 1,3 ; -   ; -   ; 4 ; -   ; 3,0 ; 6 ; 7 ; -   ; -   ;
+Coltello da bandito;Pugnale; 4 ; 3 ; -   ; -   ; -   ; -   ; -   ; 1,2 ; 1,3 ; -   ; -   ; 4 ; -   ; 1,4 ; 5 ; 5 ; -   ; -   ;
+Spada corta a coccige;Pugnale; 5 ; 4 ; -   ; -   ; -   ; 3 ; -   ; 1,1 ; 1,4 ; -   ; 1,0 ; 4 ; -   ; 1,7 ; 5 ; 7 ; -   ; 2 ;
+Spada arruginita;Spada; 6 ; 4 ; 4 ; -   ; -   ; -   ; -   ; 1,2 ; -   ; -   ; -   ; 4 ; -   ; 2,5 ; 6 ; -   ; -   ; -   ;
+Spada larga;Spada; 8 ; 6 ; 4 ; -   ; -   ; -   ; -   ; 1,1 ; -   ; -   ; -   ; 4 ; -   ; 2,5 ; 7 ; -   ; -   ; -   ;
+Spadone ricurvo;Spada curva; 8 ; -   ; 5 ; -   ; -   ; -   ; -   ; 1,1 ; 1,3 ; -   ; -   ; 4 ; -   ; 3,6 ; 6 ; 9 ; -   ; -   ;
+Fendente corvino;Spada curva; 11 ; -   ; 6 ; -   ; -   ; 5 ; -   ; -   ; 1,3 ; -   ; 1,0 ; 4 ; 2 ; 3,4 ; -   ; 11 ; -   ; 2 ;
+Yatari;Spada curva; 13 ; -   ; 6 ; -   ; 6 ; -   ; -   ; -   ; 1,4 ; -   ; 1,0 ; 4 ; 3 ; 5,9 ; -   ; 14 ; -   ; 3 ;
+Lancia dell'anima;Illusione; -   ; 14 ; -   ; -   ; -   ; -   ; 18 ; 1,0 ; 1,1 ; 1,2 ; -   ; 4 ; 6 ; 2,2 ; 4 ; 5 ; 6 ; -   ;
+Dardo dell'anima;Illusione; -   ; 17 ; -   ; -   ; -   ; -   ; 21 ; -   ; 1,0 ; 1,2 ; -   ; 4 ; 8 ; 3,0 ; -   ; 7 ; 10 ; -   ;
+Mazzafrusto;Mazza; 5 ; -   ; 16 ; -   ; -   ; -   ; -   ; 1,3 ; 1,0 ; -   ; -   ; 7 ; -   ; 4,8 ; 8 ; 6 ; -   ; -   ;
+Grande martello di Priotta;Mazza grande; -   ; -   ; 23 ; -   ; -   ; -   ; -   ; 1,5 ; -   ; -   ; -   ; 11 ; -   ; 9,2 ; 14 ; -   ; -   ; -   ;
+Mazza gigante;Mazza grande; -   ; -   ; 21 ; -   ; -   ; -   ; -   ; 1,5 ; -   ; -   ; -   ; 10 ; -   ; 9,1 ; 14 ; -   ; -   ; -   ;
+Lancia lunga;Lancia; 4 ; 9 ; -   ; -   ; -   ; -   ; -   ; 1,1 ; 1,2 ; -   ; -   ; 5 ; -   ; 4,4 ; 7 ; 8 ; -   ; -   ;
+Stocco supremo;Stocco; 5 ; 18 ; -   ; -   ; -   ; -   ; -   ; 1,1 ; 1,5 ; -   ; -   ; 5 ; -   ; 4,0 ; 8 ; 10 ; -   ; -   ;
+Alabarda lignea;Alabarda; 5 ; 5 ; 2 ; -   ; -   ; -   ; -   ; 1,2 ; 1,1 ; -   ; -   ; 5 ; -   ; 4,4 ; 9 ; 8 ; -   ; -   ;
+Ascia da brigante;Ascia; 7 ; -   ; 5 ; -   ; -   ; -   ; -   ; 1,2 ; -   ; -   ; -   ; 5 ; -   ; 4,0 ; 6 ; -   ; -   ; -   ;
+Spada lunga;Spada; 7 ; 7 ; 3 ; -   ; -   ; -   ; -   ; 1,1 ; 1,1 ; -   ; -   ; 5 ; -   ; 3,6 ; 9 ; 9 ; -   ; -   ;
+Pugno del demone;Pugni; -   ; -   ; 7 ; 7 ; -   ; -   ; -   ; 1,3 ; 1,3 ; -   ; 1,0 ; 5 ; 2 ; 1,4 ; 5 ; 5 ; -   ; 2 ;
+Spada antica;Spada; 7 ; 5 ; 4 ; -   ; -   ; -   ; -   ; 1,1 ; 1,1 ; -   ; -   ; 5 ; -   ; 3,7 ; 9 ; 9 ; -   ; -   ;
+Spada ammaliante;Spada; 8 ; 7 ; 2 ; -   ; -   ; -   ; 7 ; 1,0 ; 1,0 ; 1,1 ; -   ; 4 ; 2 ; 3,8 ; 8 ; 8 ; 7 ; -   ;
+Ascia di Birribaida;Ascia da guerra; 8 ; -   ; 3 ; -   ; -   ; -   ; -   ; 1,2 ; 1,1 ; -   ; -   ; 5 ; -   ; 5,3 ; 5 ; 4 ; -   ; -   ;
+Ascia a mezzaluna;Ascia; 11 ; -   ; 8 ; -   ; -   ; -   ; -   ; 1,2 ; -   ; -   ; -   ; 5 ; -   ; 4,5 ; 8 ; -   ; -   ; -   ;
+Randello rinforzato;Mazza; -   ; -   ; 14 ; -   ; -   ; -   ; -   ; 1,4 ; -   ; -   ; -   ; 6 ; -   ; 4,6 ; 7 ; -   ; -   ; -   ;
+Martello gigante;Mazza grande; -   ; -   ; 19 ; -   ; -   ; -   ; -   ; 1,3 ; -   ; -   ; -   ; 9 ; -   ; 8,0 ; 11 ; -   ; -   ; -   ;
+Spada agile della cenere;Spada; 12 ; 9 ; 5 ; 7 ; -   ; -   ; -   ; -   ; 1,4 ; -   ; 1,0 ; 5 ; 1 ; 5,6 ; -   ; 15 ; -   ; -   ;
+Scimitarra arruginita;Spada curva; 12 ; -   ; -   ; -   ; -   ; -   ; -   ; -   ; 1,3 ; -   ; -   ; 5 ; -   ; 3,5 ; -   ; 9 ; -   ; -   ;
+Nebbia pestilenziale;Veleno; -   ; -   ; -   ; -   ; -   ; -   ; 11 ; -   ; -   ; 1,2 ; -   ; -   ; 8 ; 1,8 ; -   ; -   ; 13 ; -   ; Causa status tossina per tutto il combat, questo turno fa danno da illusione (non cumulabile) 
+Artiglio a quattro punte;Pugni; 5 ; 5 ; 8 ; -   ; -   ; -   ; -   ; 1,5 ; 1,5 ; -   ; -   ; 7 ; -   ; 3,6 ; 10 ; 10 ; -   ; -   ;
+Martello grande di legno;Mazza grande; -   ; -   ; 18 ; -   ; -   ; -   ; -   ; 1,3 ; -   ; -   ; -   ; 8 ; -   ; 6,4 ; 11 ; -   ; -   ; -   ;
+Saldatore;Alabarda; 6 ; 6 ; 3 ; -   ; -   ; -   ; -   ; 1,2 ; 1,1 ; -   ; -   ; 6 ; -   ; 5,5 ; 10 ; 9 ; -   ; -   ;
+Lancia Alata;Lancia; 6 ; 13 ; -   ; -   ; -   ; -   ; -   ; -   ; 1,3 ; -   ; -   ; 7 ; -   ; 5,6 ; -   ; 11 ; -   ; -   ;
+Alabarda;Alabarda; 7 ; 7 ; 3 ; -   ; -   ; -   ; -   ; 1,3 ; 1,0 ; -   ; -   ; 6 ; -   ; 5,8 ; 12 ; 9 ; -   ; -   ;
+Ascia del cavaliere di cenere;Ascia; 18 ; -   ; 11 ; -   ; -   ; -   ; -   ; 1,2 ; 1,0 ; -   ; -   ; 8 ; -   ; 4,7 ; 11 ; 9 ; -   ; -   ;
+Spada rinforzata;Spada; 17 ; 13 ; 9 ; -   ; -   ; -   ; -   ; 1,0 ; -   ; -   ; -   ; 6 ; -   ; 3,5 ; 9 ; -   ; -   ; -   ;
+Spada affilata;Spada; 14 ; 9 ; 6 ; -   ; -   ; -   ; -   ; -   ; 1,3 ; -   ; -   ; 6 ; -   ; 4,4 ; -   ; 14 ; -   ; -   ;
+Lama di fuoco;Fuoco; 16 ; 9 ; -   ; 20 ; -   ; -   ; -   ; 1,0 ; 1,0 ; -   ; 1,4 ; 5 ; 8 ; 3,8 ; 9 ; 9 ; -   ; 9 ;
+Scimitarra degli Ashina;Spada curva; 17 ; -   ; 7 ; -   ; -   ; -   ; -   ; -   ; 1,4 ; -   ; -   ; 6 ; -   ; 4,5 ; -   ; 12 ; -   ; -   ;
+Grandine ;Illusione; -   ; -   ; 12 ; -   ; -   ; -   ; 20 ; 1,0 ; -   ; 1,3 ; -   ; 6 ; 10 ; 3,8 ; 7 ; -   ; 13 ; -   ; danni ad area 
+Lama illusoria;Illusione; 18 ; 10 ; -   ; -   ; -   ; -   ; 19 ; 1,0 ; 1,0 ; 1,3 ; -   ; 5 ; 7 ; 2,8 ; 6 ; 6 ; 7 ; -   ;
+Shotel antico;Spada curva; 19 ; -   ; 7 ; -   ; -   ; -   ; -   ; -   ; 1,1 ; -   ; -   ; 6 ; -   ; 3,0 ; -   ; 9 ; -   ; -   ;
+Mazza grande;Mazza grande; -   ; -   ; 16 ; -   ; -   ; -   ; -   ; 1,3 ; -   ; -   ; -   ; 7 ; -   ; 7,0 ; 10 ; -   ; -   ; -   ;
+Mano corrotta;Pugni; -   ; -   ; 9 ; -   ; -   ; 9 ; -   ; 1,4 ; 1,4 ; -   ; 1,1 ; 6 ; 3 ; 2,5 ; 7 ; 6 ; -   ; 3 ;
+Randello;Mazza; -   ; -   ; 10 ; -   ; -   ; -   ; -   ; 1,3 ; -   ; -   ; -   ; 5 ; -   ; 3,7 ; 6 ; -   ; -   ; -   ;
+Ascia di Cosimus;Ascia; 13 ; 5 ; 9 ; -   ; -   ; -   ; -   ; 1,2 ; 1,0 ; -   ; -   ; 7 ; -   ; 5,8 ; 12 ; 10 ; -   ; -   ;
+Lancia rapida;Lancia; 7 ; 11 ; -   ; -   ; -   ; -   ; -   ; 1,0 ; 1,3 ; -   ; -   ; 6 ; -   ; 5,6 ; 9 ; 12 ; -   ; -   ;
+Lancia possente;Lancia; 9 ; 18 ; -   ; -   ; -   ; -   ; -   ; 1,2 ; 1,1 ; -   ; -   ; 8 ; -   ; 6,6 ; 14 ; 13 ; -   ; -   ;
+Alabarda antica;Alabarda; 9 ; 9 ; 4 ; -   ; -   ; -   ; -   ; 1,3 ; 1,0 ; -   ; -   ; 7 ; -   ; 5,8 ; 14 ; 11 ; -   ; -   ;
+Corazziere;Alabarda; 12 ; 12 ; 4 ; -   ; -   ; -   ; -   ; 1,2 ; 1,0 ; -   ; -   ; 8 ; -   ; 5,0 ; 14 ; 12 ; -   ; -   ;
+Spadone ammaliante;Spadone; 11 ; 9 ; 4 ; -   ; -   ; -   ; 8 ; 1,0 ; 1,3 ; 1,1 ; -   ; 7 ; 3 ; 7,5 ; 11 ; 14 ; 8 ; -   ;
+Eleonora;Spada; 14 ; 10 ; 6 ; -   ; -   ; 8 ; 8 ; 1,1 ; 1,1 ; 1,1 ; 1,1 ; 7 ; 4 ; 6,0 ; 12 ; 12 ; 6 ; 4 ;
+Luccio;Alabarda; 15 ; 14 ; 5 ; -   ; -   ; -   ; -   ; 1,3 ; 1,1 ; -   ; -   ; 10 ; -   ; 7,1 ; 19 ; 17 ; -   ; -   ;
+Grande ascia del demone;Ascia da guerra; 16 ; -   ; 13 ; 10 ; -   ; -   ; -   ; 1,3 ; -   ; -   ; 1,0 ; 7 ; 2 ; 8,8 ; 14 ; -   ; -   ; 2 ;
+Spada della luna crescente;Spada; 16 ; 12 ; 8 ; -   ; -   ; -   ; -   ; 1,1 ; 1,0 ; -   ; -   ; 7 ; -   ; 5,8 ; 17 ; 16 ; -   ; -   ;
+Machete gigante;Ascia da guerra; 18 ; -   ; 13 ; -   ; -   ; -   ; -   ; 1,3 ; -   ; -   ; -   ; 7 ; -   ; 8,0 ; 13 ; -   ; -   ; -   ;
+Falchion;Spada curva; 21 ; -   ; 10 ; -   ; -   ; -   ; -   ; -   ; 1,4 ; -   ; -   ; 7 ; -   ; 5,9 ; -   ; 15 ; -   ; -   ;
+Mazza;Mazza; -   ; -   ; 8 ; -   ; -   ; -   ; -   ; 1,3 ; -   ; -   ; -   ; 5 ; -   ; 3,7 ; 5 ; -   ; -   ; -   ;
+Lancia di pietra;Lancia; 3 ; 15 ; 13 ; -   ; -   ; -   ; -   ; 1,2 ; 1,0 ; -   ; -   ; 8 ; -   ; 6,3 ; 15 ; 13 ; -   ; -   ;
+Lancia del commissario;Lancia; 10 ; 15 ; -   ; -   ; -   ; -   ; 3 ; 1,1 ; 1,1 ; 1,1 ; -   ; 7 ; 2 ; 5,8 ; 12 ; 12 ; 3 ; -   ;
+Lancia gigante;Lancia; 11 ; 24 ; -   ; -   ; -   ; -   ; -   ; 1,3 ; 1,0 ; -   ; -   ; 9 ; -   ; 6,9 ; 16 ; 13 ; -   ; -   ;
+Alabarda nera;Alabarda; 11 ; 11 ; 5 ; 8 ; -   ; -   ; -   ; 1,2 ; 1,1 ; -   ; 1,0 ; 8 ; 1 ; 6,7 ; 14 ; 13 ; -   ; 2 ;
+Spadone arruginito;Spadone; 12 ; 7 ; 4 ; -   ; -   ; -   ; -   ; 1,2 ; -   ; -   ; -   ; 7 ; -   ; 4,7 ; 10 ; -   ; -   ; -   ;
+Barriera magica maggiore;Illusione; -   ; -   ; -   ; -   ; -   ; -   ; 12 ; -   ; -   ; 1,4 ; -   ; -   ; 6 ; 1,8 ; -   ; -   ; 11 ; -   ; Evoca una barriera che protegge da tutte le magie di valore pari a come se fosse un attacco (si può castare anche su alleati) (protegge solo da un attacco) 
+Spadone del boia;Spadone; 13 ; -   ; 6 ; -   ; -   ; -   ; -   ; 1,3 ; 1,0 ; -   ; -   ; 8 ; -   ; 5,7 ; 11 ; 8 ; -   ; -   ;
+Ascia da battaglia;Ascia; 16 ; -   ; 10 ; -   ; -   ; -   ; -   ; 1,4 ; -   ; -   ; -   ; 7 ; -   ; 5,0 ; 11 ; -   ; -   ; -   ;
+Grande ascia di Ammos;Ascia da guerra; 26 ; -   ; 18 ; -   ; -   ; -   ; -   ; 1,5 ; 1,0 ; -   ; -   ; 11 ; -   ; 11,3 ; 23 ; 8 ; -   ; -   ;
+Lancia di Leonidas;Lancia; 8 ; 23 ; -   ; -   ; -   ; 5 ; -   ; 1,1 ; 1,4 ; -   ; 1,1 ; 9 ; 3 ; 8,2 ; 14 ; 17 ; -   ; 3 ;
+Claymore;Spada; 19 ; 15 ; 9 ; -   ; -   ; -   ; -   ; 1,2 ; 1,2 ; -   ; -   ; 8 ; -   ; 7,8 ; 20 ; 20 ; -   ; -   ;
+Lama oscura;Oscurità; 20 ; 16 ; -   ; -   ; -   ; 24 ; -   ; 1,0 ; 1,1 ; -   ; 1,5 ; 8 ; 9 ; 4,5 ; 11 ; 12 ; -   ; 11 ;
+Ascia gigante;Ascia da guerra; 21 ; -   ; 15 ; -   ; -   ; -   ; -   ; 1,3 ; -   ; -   ; -   ; 8 ; -   ; 9,0 ; 14 ; -   ; -   ; -   ;
+Randello rinsecchito;Mazza; -   ; -   ; 7 ; -   ; -   ; -   ; -   ; 1,3 ; -   ; -   ; -   ; 4 ; -   ; 3,6 ; 5 ; -   ; -   ; -   ;
+Martello da fabbro;Mazza; -   ; -   ; 5 ; -   ; -   ; -   ; -   ; 1,2 ; -   ; -   ; -   ; 3 ; -   ; 3,0 ; 3 ; -   ; -   ; -   ;
+Lancia dell'ammazza-draghi;Lancia; 12 ; 24 ; -   ; 8 ; -   ; -   ; -   ; 1,0 ; 1,2 ; -   ; 1,2 ; 9 ; 3 ; 9,5 ; 5 ; 17 ; -   ; 6 ;
+Falce del guardiano del fuoco;Alabarda; 18 ; 16 ; 6 ; -   ; -   ; -   ; -   ; 1,4 ; 1,0 ; -   ; -   ; 11 ; -   ; 9,3 ; 22 ; 18 ; -   ; -   ;
+Alabarda del cavaliere di cenere;Alabarda; 13 ; 13 ; 6 ; 9 ; -   ; -   ; -   ; 1,2 ; 1,3 ; -   ; 1,1 ; 9 ; 3 ; 8,7 ; 17 ; 18 ; -   ; 3 ;
+Spadone delle lacrime;Spadone; 21 ; 13 ; 6 ; -   ; -   ; 6 ; -   ; 1,2 ; 1,0 ; -   ; 1,4 ; 11 ; 2 ; 8,1 ; 19 ; 17 ; -   ; 4 ;
+Spadone senza nome;Spadone; 15 ; 9 ; 4 ; -   ; -   ; -   ; -   ; 1,0 ; 1,0 ; -   ; -   ; 8 ; -   ; 4,7 ; 12 ; 12 ; -   ; -   ;
+Spada della tempesta;Spada; 11 ; 10 ; 5 ; -   ; 7 ; -   ; -   ; 1,1 ; 1,0 ; -   ; 1,0 ; 5 ; 1 ; 4,5 ; 13 ; 12 ; -   ; -   ;
+Yari;Lancia; 16 ; 25 ; 6 ; -   ; -   ; -   ; -   ; 1,2 ; 1,2 ; -   ; -   ; 9 ; -   ; 8,6 ; 21 ; 21 ; -   ; -   ;
+Murakumo;Spada curva; 23 ; -   ; 12 ; -   ; -   ; -   ; -   ; 1,0 ; 1,5 ; -   ; -   ; 9 ; -   ; 6,0 ; 2 ; 17 ; -   ; -   ;
+Machede del signore del cimitero;Ascia da guerra; 24 ; -   ; 16 ; -   ; -   ; -   ; -   ; 1,4 ; -   ; -   ; -   ; 9 ; -   ; 9,4 ; 16 ; -   ; -   ; -   ;
+Martello da carpentiere;Mazza; -   ; -   ; 4 ; -   ; -   ; -   ; -   ; 1,2 ; -   ; -   ; -   ; 2 ; -   ; 3,0 ; 3 ; -   ; -   ; -   ;
+Espiazione;Illusione; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   ; 7 ; 1,3 ; -   ; -   ; 9 ; -   ; Su tutti gli alleati, annulla tutti gli status negativi (anche lo stun) 
+Spada-lancia;Lancia; 14 ; 18 ; 7 ; 12 ; 12 ; -   ; -   ; 1,1 ; 1,1 ; 1,1 ; 1,1 ; 8 ; 5 ; 8,9 ; 18 ; 18 ; -   ; 3 ;
+Zweihander;Spadone; 26 ; 15 ; 7 ; 6 ; -   ; -   ; 6 ; 1,3 ; 1,2 ; 1,1 ; 1,1 ; 12 ; 2 ; 10,0 ; 22 ; 21 ; 2 ; 2 ;
+Spadone della luna piena;Spadone; 19 ; 12 ; 7 ; -   ; -   ; -   ; -   ; 1,2 ; 1,1 ; -   ; -   ; 9 ; -   ; 7,8 ; 18 ; 17 ; -   ; -   ;
+Scudo magico maggiore;Illusione; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   ; 11 ; 2,4 ; -   ; -   ; 19 ; -   ; Crea uno scudo con valore 23 di tutto (0 peso, 23 equilibrio), finchè non esaurisci il sudore 
+Falce dell'assorbimento;Oscurità; 11 ; -   ; -   ; -   ; -   ; 19 ; -   ; 1,1 ; 1,1 ; -   ; 1,5 ; 4 ; 10 ; 3,8 ; 6 ; 6 ; -   ; 12 ; Ogni attacco guadagni coscienza pari ai danni fisici inflitti 
+Spadone del fuoco;Spadone; 18 ; 13 ; 6 ; 8 ; -   ; -   ; -   ; 1,1 ; 1,0 ; -   ; 1,1 ; 10 ; 3 ; 8,0 ; 17 ; 6 ; -   ; 4 ;
+Lama del fulmine;Fulmine; 14 ; 10 ; -   ; -   ; 22 ; -   ; -   ; 1,0 ; 1,0 ; -   ; 1,4 ; 6 ; 8 ; 3,8 ; 9 ; 9 ; -   ; 10 ;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;   ;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
